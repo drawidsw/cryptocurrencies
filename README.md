@@ -2,7 +2,7 @@
 
 In this module, *unsupervised machine learning* techniques are applied to analyze data. Fundamentally, in this type of unsupervised learning exercise, we are interested in finding if data can be *clustered*, and which attributes are important to determine the distinct clusters. 
 
-Unline the *supervised learning* algorithms, we did not divide the data in training and prediction sets. Fundamentally, we gain no benefit from dividing the data in this way, since there is no clear target variable, and hence, there is no prediction to be done. Unsupervised learning algorithms are thus retrospective in nature, and are used to deduce patterns in data. 
+Unlike the *supervised learning* algorithms, we did not divide the data in training and prediction sets. Fundamentally, we gain no benefit from dividing the data in this way, since there is no clear target variable, and hence, there is no prediction to be done. Unsupervised learning algorithms are thus retrospective in nature, and are used to deduce patterns in data. 
 
 # Analysis
 
